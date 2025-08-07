@@ -250,7 +250,11 @@ function App() {
             </div>
             <div className="bg-white rounded-2xl p-8 shadow-2xl">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Get In Touch</h3>
-              <form className="space-y-6">
+              <form 
+                className="space-y-6"
+                action="https://formsubmit.co/deepp.knowledge@gmail.com"
+                method="POST"
+              >
                 <div>
                   <input 
                     type="text" 
