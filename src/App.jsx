@@ -237,7 +237,7 @@ function App() {
             <div className="space-y-8">
               <div className="flex items-center space-x-4 text-white">
                 <Mail className="w-6 h-6 text-blue-200" />
-                <span className="text-lg">contact@VisionXai.com</span>
+                <span className="text-lg">deepp.knowledge@gmail.com</span>
               </div>
               <div className="flex items-center space-x-4 text-white">
                 <Phone className="w-6 h-6 text-blue-200" />
@@ -245,7 +245,7 @@ function App() {
               </div>
               <div className="flex items-center space-x-4 text-white">
                 <MapPin className="w-6 h-6 text-blue-200" />
-                <span className="text-lg">Gulf Region</span>
+                <span className="text-lg">Germany</span>
               </div>
             </div>
             <div className="bg-white rounded-2xl p-8 shadow-2xl">
