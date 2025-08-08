@@ -14,19 +14,7 @@ VisionX AI delivers powerful AI and Computer Vision solutions tailored for Gulf 
 
 ---
 
-## 📁 Project Structure
 
-```
-
-.
-├── public/         # Static assets
-├── src/            # React components and styles
-├── dist/           # Production build output
-├── index.html      # Main HTML file
-├── vite.config.js  # Vite configuration
-└── package.json    # Dependencies and scripts
-
-````
 
 ---
 
